@@ -1,4 +1,4 @@
-# Install script for directory: /home/acg/esp/ledc_basic/main
+# Install script for directory: /home/acg/esp/led_pwm/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

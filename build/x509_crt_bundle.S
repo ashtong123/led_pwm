@@ -1,4 +1,4 @@
-/* * Data converted from /home/acg/esp/ledc_basic/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/acg/esp/led_pwm/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

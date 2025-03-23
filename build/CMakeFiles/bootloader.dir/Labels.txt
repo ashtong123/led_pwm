@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-/home/acg/esp/ledc_basic/build/CMakeFiles/bootloader
-/home/acg/esp/ledc_basic/build/CMakeFiles/bootloader.rule
-/home/acg/esp/ledc_basic/build/CMakeFiles/bootloader-complete.rule
-/home/acg/esp/ledc_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-/home/acg/esp/ledc_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-/home/acg/esp/ledc_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-/home/acg/esp/ledc_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-/home/acg/esp/ledc_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-/home/acg/esp/ledc_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-/home/acg/esp/ledc_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/acg/esp/led_pwm/build/CMakeFiles/bootloader
+/home/acg/esp/led_pwm/build/CMakeFiles/bootloader.rule
+/home/acg/esp/led_pwm/build/CMakeFiles/bootloader-complete.rule
+/home/acg/esp/led_pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/acg/esp/led_pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/acg/esp/led_pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/acg/esp/led_pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/acg/esp/led_pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/acg/esp/led_pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/acg/esp/led_pwm/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

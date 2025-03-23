@@ -5,18 +5,18 @@ cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
   "/home/acg/esp/esp-idf/components/bootloader/subproject"
-  "/home/acg/esp/ledc_basic/build/bootloader"
-  "/home/acg/esp/ledc_basic/build/bootloader-prefix"
-  "/home/acg/esp/ledc_basic/build/bootloader-prefix/tmp"
-  "/home/acg/esp/ledc_basic/build/bootloader-prefix/src/bootloader-stamp"
-  "/home/acg/esp/ledc_basic/build/bootloader-prefix/src"
-  "/home/acg/esp/ledc_basic/build/bootloader-prefix/src/bootloader-stamp"
+  "/home/acg/esp/led_pwm/build/bootloader"
+  "/home/acg/esp/led_pwm/build/bootloader-prefix"
+  "/home/acg/esp/led_pwm/build/bootloader-prefix/tmp"
+  "/home/acg/esp/led_pwm/build/bootloader-prefix/src/bootloader-stamp"
+  "/home/acg/esp/led_pwm/build/bootloader-prefix/src"
+  "/home/acg/esp/led_pwm/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "/home/acg/esp/ledc_basic/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "/home/acg/esp/led_pwm/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "/home/acg/esp/ledc_basic/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "/home/acg/esp/led_pwm/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()

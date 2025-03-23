@@ -1,2 +1,2 @@
-source /home/acg/esp/ledc_basic/build/gdbinit/symbols
-source /home/acg/esp/ledc_basic/build/gdbinit/connect
+source /home/acg/esp/led_pwm/build/gdbinit/symbols
+source /home/acg/esp/led_pwm/build/gdbinit/connect

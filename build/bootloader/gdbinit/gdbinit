@@ -1,2 +1,2 @@
-source /home/acg/esp/ledc_basic/build/bootloader/gdbinit/symbols
-source /home/acg/esp/ledc_basic/build/bootloader/gdbinit/connect
+source /home/acg/esp/led_pwm/build/bootloader/gdbinit/symbols
+source /home/acg/esp/led_pwm/build/bootloader/gdbinit/connect
