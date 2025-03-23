@@ -1,0 +1,2 @@
+source /home/acg/esp/ledc_basic/build/gdbinit/symbols
+source /home/acg/esp/ledc_basic/build/gdbinit/connect

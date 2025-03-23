@@ -1,0 +1,2 @@
+source /home/acg/esp/ledc_basic/build/bootloader/gdbinit/symbols
+source /home/acg/esp/ledc_basic/build/bootloader/gdbinit/connect
